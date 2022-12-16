@@ -1,0 +1,40 @@
+file_utils
+==========
+
+.. toctree::
+delete_files
+----------
+__init__
+__________
+clear_temporary_files
+__________
+.. toctree::
+scan_folder
+----------
+__init__
+__________
+search_files
+__________
+.. toctree::
+FixInstaller
+----------
+__init__
+__________
+Setinstall_location
+__________
+Getinstall_location
+__________
+.. toctree::
+pycraft_config_utils
+----------
+__init__
+__________
+read_input_key
+__________
+ReadMainSave
+__________
+RepairLostSave
+__________
+save_pycraft_config
+__________
+
